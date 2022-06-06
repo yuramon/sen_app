@@ -1,3 +1,9 @@
+PATH
+  remote: engines/authentication_engine
+  specs:
+    authentication_engine (0.1.0)
+      rails (>= 7.0.3)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -216,6 +222,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  authentication_engine!
   bootsnap
   capybara
   debug
