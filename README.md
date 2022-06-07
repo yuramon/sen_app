@@ -13,6 +13,8 @@ Things you may want to cover:
 
 * Database creation
 
+    rails authentication_engine:install:migrations - to get last authentication_engine migrations
+
 * Database initialization
 
 * How to run the test suite
