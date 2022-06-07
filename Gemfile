@@ -72,4 +72,4 @@ group :test do
   gem "webdrivers"
 end
 
-gem 'authentication_engine', path: 'engines/authentication_engine'
+gem 'authentication_engine', git: 'https://github.com/yuramon/authentication_engine.git', branch: 'main'
